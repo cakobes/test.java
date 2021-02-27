@@ -13,6 +13,9 @@ public class Class1 {
 			
 		}
 		
+		String s="canan yigit";
+		System.out.println(s);
+		
 	}
 
 }
