@@ -9,6 +9,10 @@ public class Class1 {
 		int num=5;
 		double x=34.4;
 		
+		for(int i=0;i<args.length;i++) {
+			
+		}
+		
 	}
 
 }
