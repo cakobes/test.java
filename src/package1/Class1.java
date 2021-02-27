@@ -7,6 +7,7 @@ public class Class1 {
 		
 		System.out.println("hello world");
 		int num=5;
+		double x=34.4;
 		
 	}
 
